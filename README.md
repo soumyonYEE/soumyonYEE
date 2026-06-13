@@ -1,4 +1,7 @@
-## Hi there 👋
+## 소면이의 깃헙 저장소
+
+유튜브 : [클릭](https://www.youtube.com/@%EA%B0%90%EA%B7%9C%EB%A6%AC%ED%8C%AC)
+메일주소 : <soumyon.yee@gmail.com>
 
 <!--
 **soumyonYEE/soumyonYEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
